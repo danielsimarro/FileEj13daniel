@@ -1,0 +1,20 @@
+{
+  "codigo" : 45,
+  "nombre" : "app45h",
+  "descripcion" : "Deporte",
+  "kb" : 627.65,
+  "fecha" : {
+    "year" : 2023,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 28,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 362,
+    "era" : "CE"
+  }
+}

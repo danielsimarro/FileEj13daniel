@@ -1,0 +1,20 @@
+{
+  "codigo" : 23,
+  "nombre" : "app23z",
+  "descripcion" : "Conocimiento",
+  "kb" : 312.47,
+  "fecha" : {
+    "year" : 2017,
+    "month" : "MARCH",
+    "monthValue" : 3,
+    "dayOfMonth" : 18,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 77,
+    "era" : "CE"
+  }
+}

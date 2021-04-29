@@ -1,0 +1,20 @@
+{
+  "codigo" : 32,
+  "nombre" : "app32i",
+  "descripcion" : "Entretenimiento",
+  "kb" : 655.8,
+  "fecha" : {
+    "year" : 2016,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 5,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : true,
+    "dayOfYear" : 96,
+    "era" : "CE"
+  }
+}

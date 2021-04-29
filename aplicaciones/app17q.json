@@ -1,0 +1,20 @@
+{
+  "codigo" : 17,
+  "nombre" : "app17q",
+  "descripcion" : "Deporte",
+  "kb" : 139.55,
+  "fecha" : {
+    "year" : 2023,
+    "month" : "AUGUST",
+    "monthValue" : 8,
+    "dayOfMonth" : 3,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 215,
+    "era" : "CE"
+  }
+}

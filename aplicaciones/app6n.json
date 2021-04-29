@@ -1,0 +1,20 @@
+{
+  "codigo" : 6,
+  "nombre" : "app6n",
+  "descripcion" : "Lectura",
+  "kb" : 836.62,
+  "fecha" : {
+    "year" : 2023,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 1,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 91,
+    "era" : "CE"
+  }
+}

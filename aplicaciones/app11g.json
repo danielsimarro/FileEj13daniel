@@ -1,20 +1,20 @@
 {
-  "codigo" : 50,
-  "nombre" : "app50l",
-  "descripcion" : "Educación",
-  "kb" : 364.6,
+  "codigo" : 11,
+  "nombre" : "app11g",
+  "descripcion" : "Conocimiento",
+  "kb" : 328.43,
   "fecha" : {
-    "year" : 2025,
+    "year" : 2015,
     "month" : "JANUARY",
     "monthValue" : 1,
-    "dayOfMonth" : 10,
+    "dayOfMonth" : 16,
     "chronology" : {
       "id" : "ISO",
       "calendarType" : "iso8601"
     },
     "dayOfWeek" : "FRIDAY",
     "leapYear" : false,
-    "dayOfYear" : 10,
+    "dayOfYear" : 16,
     "era" : "CE"
   }
 }

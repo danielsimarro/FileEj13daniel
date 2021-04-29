@@ -1,20 +1,20 @@
 {
-  "codigo" : 38,
-  "nombre" : "app38d",
+  "codigo" : 33,
+  "nombre" : "app33o",
   "descripcion" : "Conocimiento",
-  "kb" : 909.8,
+  "kb" : 811.0,
   "fecha" : {
     "year" : 2025,
-    "month" : "JUNE",
-    "monthValue" : 6,
-    "dayOfMonth" : 23,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 22,
     "chronology" : {
       "id" : "ISO",
       "calendarType" : "iso8601"
     },
-    "dayOfWeek" : "MONDAY",
+    "dayOfWeek" : "TUESDAY",
     "leapYear" : false,
-    "dayOfYear" : 174,
+    "dayOfYear" : 112,
     "era" : "CE"
   }
 }

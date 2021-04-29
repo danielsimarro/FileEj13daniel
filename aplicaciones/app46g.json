@@ -1,0 +1,20 @@
+{
+  "codigo" : 46,
+  "nombre" : "app46g",
+  "descripcion" : "Conducción",
+  "kb" : 183.13,
+  "fecha" : {
+    "year" : 2023,
+    "month" : "JULY",
+    "monthValue" : 7,
+    "dayOfMonth" : 19,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 200,
+    "era" : "CE"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 43,
+  "nombre" : "app43t",
+  "descripcion" : "Lectura",
+  "kb" : 647.4,
+  "fecha" : {
+    "year" : 2020,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 27,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : true,
+    "dayOfYear" : 58,
+    "era" : "CE"
+  }
+}

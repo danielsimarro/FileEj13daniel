@@ -1,0 +1,20 @@
+{
+  "codigo" : 2,
+  "nombre" : "app2b",
+  "descripcion" : "Parejas",
+  "kb" : 352.49,
+  "fecha" : {
+    "year" : 2017,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 26,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "dayOfYear" : 57,
+    "era" : "CE"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 16,
+  "nombre" : "app16s",
+  "descripcion" : "Entretenimiento",
+  "kb" : 683.2,
+  "fecha" : {
+    "year" : 2020,
+    "month" : "JANUARY",
+    "monthValue" : 1,
+    "dayOfMonth" : 22,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : true,
+    "dayOfYear" : 22,
+    "era" : "CE"
+  }
+}

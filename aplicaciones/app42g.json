@@ -1,0 +1,20 @@
+{
+  "codigo" : 42,
+  "nombre" : "app42g",
+  "descripcion" : "Parejas",
+  "kb" : 998.76,
+  "fecha" : {
+    "year" : 2016,
+    "month" : "NOVEMBER",
+    "monthValue" : 11,
+    "dayOfMonth" : 25,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : true,
+    "dayOfYear" : 330,
+    "era" : "CE"
+  }
+}

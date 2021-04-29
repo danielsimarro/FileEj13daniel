@@ -1,0 +1,20 @@
+{
+  "codigo" : 19,
+  "nombre" : "app19u",
+  "descripcion" : "Entretenimiento",
+  "kb" : 660.48,
+  "fecha" : {
+    "year" : 2022,
+    "month" : "NOVEMBER",
+    "monthValue" : 11,
+    "dayOfMonth" : 17,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 321,
+    "era" : "CE"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 13,
+  "nombre" : "app13d",
+  "descripcion" : "Juegos",
+  "kb" : 674.64,
+  "fecha" : {
+    "year" : 2023,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 15,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "dayOfYear" : 349,
+    "era" : "CE"
+  }
+}

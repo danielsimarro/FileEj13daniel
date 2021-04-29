@@ -1,0 +1,20 @@
+{
+  "codigo" : 4,
+  "nombre" : "app4c",
+  "descripcion" : "Parejas",
+  "kb" : 220.22,
+  "fecha" : {
+    "year" : 2023,
+    "month" : "NOVEMBER",
+    "monthValue" : 11,
+    "dayOfMonth" : 1,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 305,
+    "era" : "CE"
+  }
+}

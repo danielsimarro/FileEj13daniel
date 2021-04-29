@@ -1,0 +1,20 @@
+{
+  "codigo" : 3,
+  "nombre" : "app3n",
+  "descripcion" : "Juegos",
+  "kb" : 118.5,
+  "fecha" : {
+    "year" : 2019,
+    "month" : "MAY",
+    "monthValue" : 5,
+    "dayOfMonth" : 23,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 143,
+    "era" : "CE"
+  }
+}

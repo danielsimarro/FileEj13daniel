@@ -1,0 +1,20 @@
+{
+  "codigo" : 34,
+  "nombre" : "app34y",
+  "descripcion" : "Parejas",
+  "kb" : 938.18,
+  "fecha" : {
+    "year" : 2020,
+    "month" : "JUNE",
+    "monthValue" : 6,
+    "dayOfMonth" : 9,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : true,
+    "dayOfYear" : 161,
+    "era" : "CE"
+  }
+}

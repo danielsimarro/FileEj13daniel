@@ -1,10 +1,10 @@
 {
-  "codigo" : 38,
-  "nombre" : "app38d",
-  "descripcion" : "Conocimiento",
-  "kb" : 909.8,
+  "codigo" : 18,
+  "nombre" : "app18x",
+  "descripcion" : "Entretenimiento",
+  "kb" : 394.22,
   "fecha" : {
-    "year" : 2025,
+    "year" : 2023,
     "month" : "JUNE",
     "monthValue" : 6,
     "dayOfMonth" : 23,
@@ -12,7 +12,7 @@
       "id" : "ISO",
       "calendarType" : "iso8601"
     },
-    "dayOfWeek" : "MONDAY",
+    "dayOfWeek" : "FRIDAY",
     "leapYear" : false,
     "dayOfYear" : 174,
     "era" : "CE"

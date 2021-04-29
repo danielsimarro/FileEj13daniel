@@ -1,0 +1,20 @@
+{
+  "codigo" : 12,
+  "nombre" : "app12t",
+  "descripcion" : "Juegos",
+  "kb" : 705.92,
+  "fecha" : {
+    "year" : 2022,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 3,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "dayOfYear" : 93,
+    "era" : "CE"
+  }
+}

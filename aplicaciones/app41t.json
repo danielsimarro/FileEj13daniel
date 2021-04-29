@@ -1,20 +1,20 @@
 {
-  "codigo" : 24,
-  "nombre" : "app24i",
-  "descripcion" : "Lectura",
-  "kb" : 641.84,
+  "codigo" : 41,
+  "nombre" : "app41t",
+  "descripcion" : "Deporte",
+  "kb" : 952.84,
   "fecha" : {
     "year" : 2024,
-    "month" : "MAY",
-    "monthValue" : 5,
-    "dayOfMonth" : 1,
+    "month" : "JUNE",
+    "monthValue" : 6,
+    "dayOfMonth" : 19,
     "chronology" : {
       "id" : "ISO",
       "calendarType" : "iso8601"
     },
     "dayOfWeek" : "WEDNESDAY",
     "leapYear" : true,
-    "dayOfYear" : 122,
+    "dayOfYear" : 171,
     "era" : "CE"
   }
 }

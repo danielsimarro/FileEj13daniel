@@ -1,20 +1,20 @@
 {
-  "codigo" : 38,
-  "nombre" : "app38d",
-  "descripcion" : "Conocimiento",
-  "kb" : 909.8,
+  "codigo" : 49,
+  "nombre" : "app49r",
+  "descripcion" : "Deporte",
+  "kb" : 723.81,
   "fecha" : {
-    "year" : 2025,
+    "year" : 2018,
     "month" : "JUNE",
     "monthValue" : 6,
-    "dayOfMonth" : 23,
+    "dayOfMonth" : 12,
     "chronology" : {
       "id" : "ISO",
       "calendarType" : "iso8601"
     },
-    "dayOfWeek" : "MONDAY",
+    "dayOfWeek" : "TUESDAY",
     "leapYear" : false,
-    "dayOfYear" : 174,
+    "dayOfYear" : 163,
     "era" : "CE"
   }
 }

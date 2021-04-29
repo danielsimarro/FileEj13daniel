@@ -1,0 +1,20 @@
+{
+  "codigo" : 5,
+  "nombre" : "app5v",
+  "descripcion" : "Conocimiento",
+  "kb" : 431.07,
+  "fecha" : {
+    "year" : 2018,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 14,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 104,
+    "era" : "CE"
+  }
+}

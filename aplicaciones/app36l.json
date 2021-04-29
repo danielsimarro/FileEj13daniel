@@ -1,0 +1,20 @@
+{
+  "codigo" : 36,
+  "nombre" : "app36l",
+  "descripcion" : "Conducción",
+  "kb" : 382.94,
+  "fecha" : {
+    "year" : 2017,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 24,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "dayOfYear" : 114,
+    "era" : "CE"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "codigo" : 40,
+  "nombre" : "app40h",
+  "descripcion" : "Conocimiento",
+  "kb" : 311.77,
+  "fecha" : {
+    "year" : 2021,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 17,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 107,
+    "era" : "CE"
+  }
+}

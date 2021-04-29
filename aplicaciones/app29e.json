@@ -1,0 +1,20 @@
+{
+  "codigo" : 29,
+  "nombre" : "app29e",
+  "descripcion" : "Conducción",
+  "kb" : 169.59,
+  "fecha" : {
+    "year" : 2020,
+    "month" : "NOVEMBER",
+    "monthValue" : 11,
+    "dayOfMonth" : 1,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : true,
+    "dayOfYear" : 306,
+    "era" : "CE"
+  }
+}

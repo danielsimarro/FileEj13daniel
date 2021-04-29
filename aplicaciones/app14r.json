@@ -1,0 +1,20 @@
+{
+  "codigo" : 14,
+  "nombre" : "app14r",
+  "descripcion" : "Educación",
+  "kb" : 464.54,
+  "fecha" : {
+    "year" : 2023,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 12,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "TUESDAY",
+    "leapYear" : false,
+    "dayOfYear" : 346,
+    "era" : "CE"
+  }
+}

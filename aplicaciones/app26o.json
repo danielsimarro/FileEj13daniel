@@ -1,0 +1,20 @@
+{
+  "codigo" : 26,
+  "nombre" : "app26o",
+  "descripcion" : "Conducción",
+  "kb" : 533.28,
+  "fecha" : {
+    "year" : 2021,
+    "month" : "MARCH",
+    "monthValue" : 3,
+    "dayOfMonth" : 25,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 84,
+    "era" : "CE"
+  }
+}

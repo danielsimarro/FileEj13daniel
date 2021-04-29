@@ -1,0 +1,20 @@
+{
+  "codigo" : 27,
+  "nombre" : "app27c",
+  "descripcion" : "Conducción",
+  "kb" : 402.59,
+  "fecha" : {
+    "year" : 2018,
+    "month" : "AUGUST",
+    "monthValue" : 8,
+    "dayOfMonth" : 12,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "dayOfYear" : 224,
+    "era" : "CE"
+  }
+}

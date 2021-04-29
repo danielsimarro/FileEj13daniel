@@ -1,0 +1,20 @@
+{
+  "codigo" : 1,
+  "nombre" : "app1p",
+  "descripcion" : "Logica",
+  "kb" : 474.65,
+  "fecha" : {
+    "year" : 2021,
+    "month" : "MAY",
+    "monthValue" : 5,
+    "dayOfMonth" : 24,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : false,
+    "dayOfYear" : 144,
+    "era" : "CE"
+  }
+}

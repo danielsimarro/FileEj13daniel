@@ -1,0 +1,20 @@
+{
+  "codigo" : 35,
+  "nombre" : "app35c",
+  "descripcion" : "Juegos",
+  "kb" : 191.7,
+  "fecha" : {
+    "year" : 2015,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 26,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "dayOfYear" : 116,
+    "era" : "CE"
+  }
+}

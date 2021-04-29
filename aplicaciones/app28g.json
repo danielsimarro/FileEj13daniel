@@ -1,0 +1,20 @@
+{
+  "codigo" : 28,
+  "nombre" : "app28g",
+  "descripcion" : "Conducción",
+  "kb" : 536.13,
+  "fecha" : {
+    "year" : 2024,
+    "month" : "AUGUST",
+    "monthValue" : 8,
+    "dayOfMonth" : 17,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : true,
+    "dayOfYear" : 230,
+    "era" : "CE"
+  }
+}

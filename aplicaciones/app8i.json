@@ -1,0 +1,20 @@
+{
+  "codigo" : 8,
+  "nombre" : "app8i",
+  "descripcion" : "Entretenimiento",
+  "kb" : 188.27,
+  "fecha" : {
+    "year" : 2016,
+    "month" : "APRIL",
+    "monthValue" : 4,
+    "dayOfMonth" : 25,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "MONDAY",
+    "leapYear" : true,
+    "dayOfYear" : 116,
+    "era" : "CE"
+  }
+}

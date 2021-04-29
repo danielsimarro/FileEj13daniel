@@ -1,0 +1,20 @@
+{
+  "codigo" : 20,
+  "nombre" : "app20r",
+  "descripcion" : "Conocimiento",
+  "kb" : 934.05,
+  "fecha" : {
+    "year" : 2015,
+    "month" : "AUGUST",
+    "monthValue" : 8,
+    "dayOfMonth" : 27,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 239,
+    "era" : "CE"
+  }
+}

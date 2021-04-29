@@ -1,0 +1,20 @@
+{
+  "codigo" : 22,
+  "nombre" : "app22w",
+  "descripcion" : "Deporte",
+  "kb" : 177.33,
+  "fecha" : {
+    "year" : 2016,
+    "month" : "JULY",
+    "monthValue" : 7,
+    "dayOfMonth" : 13,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "WEDNESDAY",
+    "leapYear" : true,
+    "dayOfYear" : 195,
+    "era" : "CE"
+  }
+}

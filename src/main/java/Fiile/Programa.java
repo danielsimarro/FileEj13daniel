@@ -13,6 +13,8 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.xml.bind.JAXBException;
 
 /**
@@ -21,7 +23,7 @@ import javax.xml.bind.JAXBException;
  */
 public class Programa {
 
-    public static void main(String[] args) throws IOException, JAXBException {
+    public static void main(String[] args) throws IOException  {
 
         //Creacion de lista con 50 valores aleatorios
         ArrayList<App> listaApp = new ArrayList<>();
@@ -44,7 +46,11 @@ public class Programa {
         generarFicheroTSV.generaTsv(listaApp, "./appstsv/aplicaciones.tsv");
 
         ServicioFicheroJSON generarFicheroJSON = new ServicioFicheroJSON();
-        generarFicheroJSON.generaJson(listaApp, "./appsjson/aplicaciones.json");
+        try {
+            generarFicheroJSON.generaJson(listaApp, "./appsjson/aplicaciones.json");
+        } catch (IOException ex) {
+            Logger.getLogger(Programa.class.getName()).log(Level.SEVERE, null, ex);
+        }
         
         //Para crear un fichero xml primero crearemos un catalogo y le pasaremos una lista de app y el nombre del catalogo
         CatalogoAplicaciones catalogo = new CatalogoAplicaciones();
@@ -52,7 +58,11 @@ public class Programa {
         catalogo.setDescripcion("Mi catalogo");
 
         ServicioFicheroXML generarFicheroXML = new ServicioFicheroXML();
-        generarFicheroXML.generaXml(catalogo, "./appsxml/aplicaciones.xml");
+        try {
+            generarFicheroXML.generaXml(catalogo, "./appsxml/aplicaciones.xml");
+        } catch (JAXBException ex) {
+            Logger.getLogger(Programa.class.getName()).log(Level.SEVERE, null, ex);
+        }
         
         //Recorremos el bucle y vamos extrayendo los objetos de las posiciones y generando ficheros
         for (int i = 0; i < listaApp.size(); i++) {

@@ -1,0 +1,20 @@
+{
+  "codigo" : 47,
+  "nombre" : "app47d",
+  "descripcion" : "Juegos",
+  "kb" : 748.1,
+  "fecha" : {
+    "year" : 2015,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 20,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "FRIDAY",
+    "leapYear" : false,
+    "dayOfYear" : 51,
+    "era" : "CE"
+  }
+}

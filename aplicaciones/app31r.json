@@ -1,0 +1,20 @@
+{
+  "codigo" : 31,
+  "nombre" : "app31r",
+  "descripcion" : "Entretenimiento",
+  "kb" : 603.47,
+  "fecha" : {
+    "year" : 2023,
+    "month" : "JULY",
+    "monthValue" : 7,
+    "dayOfMonth" : 13,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 194,
+    "era" : "CE"
+  }
+}

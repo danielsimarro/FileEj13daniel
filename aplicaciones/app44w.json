@@ -1,0 +1,20 @@
+{
+  "codigo" : 44,
+  "nombre" : "app44w",
+  "descripcion" : "Lectura",
+  "kb" : 289.99,
+  "fecha" : {
+    "year" : 2023,
+    "month" : "FEBRUARY",
+    "monthValue" : 2,
+    "dayOfMonth" : 9,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "THURSDAY",
+    "leapYear" : false,
+    "dayOfYear" : 40,
+    "era" : "CE"
+  }
+}

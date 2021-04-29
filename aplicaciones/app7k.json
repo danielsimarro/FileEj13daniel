@@ -1,0 +1,20 @@
+{
+  "codigo" : 7,
+  "nombre" : "app7k",
+  "descripcion" : "Juegos",
+  "kb" : 417.47,
+  "fecha" : {
+    "year" : 2018,
+    "month" : "JULY",
+    "monthValue" : 7,
+    "dayOfMonth" : 22,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SUNDAY",
+    "leapYear" : false,
+    "dayOfYear" : 203,
+    "era" : "CE"
+  }
+}
