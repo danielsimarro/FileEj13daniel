@@ -16,6 +16,8 @@ import javax.xml.bind.JAXBException;
  */
 public class Pruebalectura {
     
+    //Lectura
+    
     public static void main(String[] args) {
         LecturaXml leerXml = new LecturaXml();
         
