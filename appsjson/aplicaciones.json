@@ -1,951 +1,301 @@
 [ {
   "codigo" : 1,
-  "nombre" : "app1p",
-  "descripcion" : "Logica",
-  "kb" : 474.65,
-  "fecha" : {
-    "year" : 2021,
-    "month" : "MAY",
-    "monthValue" : 5,
-    "dayOfMonth" : 24,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : false,
-    "dayOfYear" : 144,
-    "era" : "CE"
-  }
+  "nombre" : "app1v",
+  "descripcion" : "Parejas",
+  "espacioKb" : 151.56286259307882,
+  "fechaCreacion" : "01/10/2021"
 }, {
   "codigo" : 2,
-  "nombre" : "app2b",
-  "descripcion" : "Parejas",
-  "kb" : 352.49,
-  "fecha" : {
-    "year" : 2017,
-    "month" : "FEBRUARY",
-    "monthValue" : 2,
-    "dayOfMonth" : 26,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : false,
-    "dayOfYear" : 57,
-    "era" : "CE"
-  }
+  "nombre" : "app2s",
+  "descripcion" : "Lectura",
+  "espacioKb" : 295.1191908933465,
+  "fechaCreacion" : "23/02/2022"
 }, {
   "codigo" : 3,
-  "nombre" : "app3n",
+  "nombre" : "app3w",
   "descripcion" : "Juegos",
-  "kb" : 118.5,
-  "fecha" : {
-    "year" : 2019,
-    "month" : "MAY",
-    "monthValue" : 5,
-    "dayOfMonth" : 23,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : false,
-    "dayOfYear" : 143,
-    "era" : "CE"
-  }
+  "espacioKb" : 608.7259023132592,
+  "fechaCreacion" : "03/01/2023"
 }, {
   "codigo" : 4,
-  "nombre" : "app4c",
-  "descripcion" : "Parejas",
-  "kb" : 220.22,
-  "fecha" : {
-    "year" : 2023,
-    "month" : "NOVEMBER",
-    "monthValue" : 11,
-    "dayOfMonth" : 1,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "WEDNESDAY",
-    "leapYear" : false,
-    "dayOfYear" : 305,
-    "era" : "CE"
-  }
+  "nombre" : "app4b",
+  "descripcion" : "Finanzas",
+  "espacioKb" : 495.969176003553,
+  "fechaCreacion" : "13/09/2022"
 }, {
   "codigo" : 5,
-  "nombre" : "app5v",
-  "descripcion" : "Conocimiento",
-  "kb" : 431.07,
-  "fecha" : {
-    "year" : 2018,
-    "month" : "APRIL",
-    "monthValue" : 4,
-    "dayOfMonth" : 14,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "SATURDAY",
-    "leapYear" : false,
-    "dayOfYear" : 104,
-    "era" : "CE"
-  }
+  "nombre" : "app5a",
+  "descripcion" : "Deporte",
+  "espacioKb" : 627.2578240476881,
+  "fechaCreacion" : "24/01/2023"
 }, {
   "codigo" : 6,
-  "nombre" : "app6n",
-  "descripcion" : "Lectura",
-  "kb" : 836.62,
-  "fecha" : {
-    "year" : 2023,
-    "month" : "APRIL",
-    "monthValue" : 4,
-    "dayOfMonth" : 1,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "SATURDAY",
-    "leapYear" : false,
-    "dayOfYear" : 91,
-    "era" : "CE"
-  }
+  "nombre" : "app6r",
+  "descripcion" : "Conocimiento",
+  "espacioKb" : 378.7809430529258,
+  "fechaCreacion" : "21/05/2022"
 }, {
   "codigo" : 7,
-  "nombre" : "app7k",
-  "descripcion" : "Juegos",
-  "kb" : 417.47,
-  "fecha" : {
-    "year" : 2018,
-    "month" : "JULY",
-    "monthValue" : 7,
-    "dayOfMonth" : 22,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : false,
-    "dayOfYear" : 203,
-    "era" : "CE"
-  }
+  "nombre" : "app7m",
+  "descripcion" : "Logica",
+  "espacioKb" : 848.0919717606,
+  "fechaCreacion" : "04/09/2023"
 }, {
   "codigo" : 8,
-  "nombre" : "app8i",
-  "descripcion" : "Entretenimiento",
-  "kb" : 188.27,
-  "fecha" : {
-    "year" : 2016,
-    "month" : "APRIL",
-    "monthValue" : 4,
-    "dayOfMonth" : 25,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : true,
-    "dayOfYear" : 116,
-    "era" : "CE"
-  }
+  "nombre" : "app8v",
+  "descripcion" : "Parejas",
+  "espacioKb" : 968.4083701536516,
+  "fechaCreacion" : "03/01/2024"
 }, {
   "codigo" : 9,
-  "nombre" : "app9r",
-  "descripcion" : "Entretenimiento",
-  "kb" : 748.04,
-  "fecha" : {
-    "year" : 2017,
-    "month" : "SEPTEMBER",
-    "monthValue" : 9,
-    "dayOfMonth" : 22,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : false,
-    "dayOfYear" : 265,
-    "era" : "CE"
-  }
+  "nombre" : "app9k",
+  "descripcion" : "Conocimiento",
+  "espacioKb" : 294.4683822838923,
+  "fechaCreacion" : "01/03/2022"
 }, {
   "codigo" : 10,
-  "nombre" : "app10h",
-  "descripcion" : "Conducción",
-  "kb" : 509.89,
-  "fecha" : {
-    "year" : 2022,
-    "month" : "JANUARY",
-    "monthValue" : 1,
-    "dayOfMonth" : 14,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : false,
-    "dayOfYear" : 14,
-    "era" : "CE"
-  }
+  "nombre" : "app10i",
+  "descripcion" : "Parejas",
+  "espacioKb" : 880.6404889312071,
+  "fechaCreacion" : "09/10/2023"
 }, {
   "codigo" : 11,
-  "nombre" : "app11g",
-  "descripcion" : "Conocimiento",
-  "kb" : 328.43,
-  "fecha" : {
-    "year" : 2015,
-    "month" : "JANUARY",
-    "monthValue" : 1,
-    "dayOfMonth" : 16,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : false,
-    "dayOfYear" : 16,
-    "era" : "CE"
-  }
+  "nombre" : "app11m",
+  "descripcion" : "Deporte",
+  "espacioKb" : 686.6186947787609,
+  "fechaCreacion" : "30/03/2023"
 }, {
   "codigo" : 12,
-  "nombre" : "app12t",
+  "nombre" : "app12w",
   "descripcion" : "Juegos",
-  "kb" : 705.92,
-  "fecha" : {
-    "year" : 2022,
-    "month" : "APRIL",
-    "monthValue" : 4,
-    "dayOfMonth" : 3,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : false,
-    "dayOfYear" : 93,
-    "era" : "CE"
-  }
+  "espacioKb" : 105.08192777090639,
+  "fechaCreacion" : "27/08/2021"
 }, {
   "codigo" : 13,
-  "nombre" : "app13d",
+  "nombre" : "app13n",
   "descripcion" : "Juegos",
-  "kb" : 674.64,
-  "fecha" : {
-    "year" : 2023,
-    "month" : "DECEMBER",
-    "monthValue" : 12,
-    "dayOfMonth" : 15,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : false,
-    "dayOfYear" : 349,
-    "era" : "CE"
-  }
+  "espacioKb" : 353.70440483221876,
+  "fechaCreacion" : "03/05/2022"
 }, {
   "codigo" : 14,
-  "nombre" : "app14r",
-  "descripcion" : "Educación",
-  "kb" : 464.54,
-  "fecha" : {
-    "year" : 2023,
-    "month" : "DECEMBER",
-    "monthValue" : 12,
-    "dayOfMonth" : 12,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : false,
-    "dayOfYear" : 346,
-    "era" : "CE"
-  }
+  "nombre" : "app14t",
+  "descripcion" : "Logica",
+  "espacioKb" : 521.3737905398689,
+  "fechaCreacion" : "19/10/2022"
 }, {
   "codigo" : 15,
-  "nombre" : "app15l",
-  "descripcion" : "Juegos",
-  "kb" : 643.25,
-  "fecha" : {
-    "year" : 2021,
-    "month" : "MARCH",
-    "monthValue" : 3,
-    "dayOfMonth" : 15,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : false,
-    "dayOfYear" : 74,
-    "era" : "CE"
-  }
+  "nombre" : "app15n",
+  "descripcion" : "Logica",
+  "espacioKb" : 188.83766473289143,
+  "fechaCreacion" : "21/11/2021"
 }, {
   "codigo" : 16,
-  "nombre" : "app16s",
-  "descripcion" : "Entretenimiento",
-  "kb" : 683.2,
-  "fecha" : {
-    "year" : 2020,
-    "month" : "JANUARY",
-    "monthValue" : 1,
-    "dayOfMonth" : 22,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "WEDNESDAY",
-    "leapYear" : true,
-    "dayOfYear" : 22,
-    "era" : "CE"
-  }
+  "nombre" : "app16b",
+  "descripcion" : "Finanzas",
+  "espacioKb" : 336.6286974737418,
+  "fechaCreacion" : "19/04/2022"
 }, {
   "codigo" : 17,
-  "nombre" : "app17q",
-  "descripcion" : "Deporte",
-  "kb" : 139.55,
-  "fecha" : {
-    "year" : 2023,
-    "month" : "AUGUST",
-    "monthValue" : 8,
-    "dayOfMonth" : 3,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : false,
-    "dayOfYear" : 215,
-    "era" : "CE"
-  }
+  "nombre" : "app17v",
+  "descripcion" : "Conocimiento",
+  "espacioKb" : 514.3217605189714,
+  "fechaCreacion" : "15/10/2022"
 }, {
   "codigo" : 18,
-  "nombre" : "app18x",
-  "descripcion" : "Entretenimiento",
-  "kb" : 394.22,
-  "fecha" : {
-    "year" : 2023,
-    "month" : "JUNE",
-    "monthValue" : 6,
-    "dayOfMonth" : 23,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : false,
-    "dayOfYear" : 174,
-    "era" : "CE"
-  }
+  "nombre" : "app18w",
+  "descripcion" : "Conocimiento",
+  "espacioKb" : 863.1999057608607,
+  "fechaCreacion" : "30/09/2023"
 }, {
   "codigo" : 19,
-  "nombre" : "app19u",
-  "descripcion" : "Entretenimiento",
-  "kb" : 660.48,
-  "fecha" : {
-    "year" : 2022,
-    "month" : "NOVEMBER",
-    "monthValue" : 11,
-    "dayOfMonth" : 17,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : false,
-    "dayOfYear" : 321,
-    "era" : "CE"
-  }
+  "nombre" : "app19p",
+  "descripcion" : "Lectura",
+  "espacioKb" : 404.43311407637304,
+  "fechaCreacion" : "29/06/2022"
 }, {
   "codigo" : 20,
-  "nombre" : "app20r",
-  "descripcion" : "Conocimiento",
-  "kb" : 934.05,
-  "fecha" : {
-    "year" : 2015,
-    "month" : "AUGUST",
-    "monthValue" : 8,
-    "dayOfMonth" : 27,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : false,
-    "dayOfYear" : 239,
-    "era" : "CE"
-  }
+  "nombre" : "app20a",
+  "descripcion" : "Conducción",
+  "espacioKb" : 636.0257890174748,
+  "fechaCreacion" : "17/02/2023"
 }, {
   "codigo" : 21,
   "nombre" : "app21u",
   "descripcion" : "Conocimiento",
-  "kb" : 370.7,
-  "fecha" : {
-    "year" : 2020,
-    "month" : "OCTOBER",
-    "monthValue" : 10,
-    "dayOfMonth" : 20,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : true,
-    "dayOfYear" : 294,
-    "era" : "CE"
-  }
+  "espacioKb" : 756.1238002176349,
+  "fechaCreacion" : "18/06/2023"
 }, {
   "codigo" : 22,
-  "nombre" : "app22w",
-  "descripcion" : "Deporte",
-  "kb" : 177.33,
-  "fecha" : {
-    "year" : 2016,
-    "month" : "JULY",
-    "monthValue" : 7,
-    "dayOfMonth" : 13,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "WEDNESDAY",
-    "leapYear" : true,
-    "dayOfYear" : 195,
-    "era" : "CE"
-  }
+  "nombre" : "app22k",
+  "descripcion" : "Educación",
+  "espacioKb" : 877.7866887431783,
+  "fechaCreacion" : "18/10/2023"
 }, {
   "codigo" : 23,
-  "nombre" : "app23z",
-  "descripcion" : "Conocimiento",
-  "kb" : 312.47,
-  "fecha" : {
-    "year" : 2017,
-    "month" : "MARCH",
-    "monthValue" : 3,
-    "dayOfMonth" : 18,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "SATURDAY",
-    "leapYear" : false,
-    "dayOfYear" : 77,
-    "era" : "CE"
-  }
+  "nombre" : "app23j",
+  "descripcion" : "Finanzas",
+  "espacioKb" : 783.9585453804323,
+  "fechaCreacion" : "17/07/2023"
 }, {
   "codigo" : 24,
-  "nombre" : "app24i",
-  "descripcion" : "Lectura",
-  "kb" : 641.84,
-  "fecha" : {
-    "year" : 2024,
-    "month" : "MAY",
-    "monthValue" : 5,
-    "dayOfMonth" : 1,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "WEDNESDAY",
-    "leapYear" : true,
-    "dayOfYear" : 122,
-    "era" : "CE"
-  }
+  "nombre" : "app24d",
+  "descripcion" : "Finanzas",
+  "espacioKb" : 185.98239977562565,
+  "fechaCreacion" : "27/11/2021"
 }, {
   "codigo" : 25,
-  "nombre" : "app25m",
-  "descripcion" : "Deporte",
-  "kb" : 929.46,
-  "fecha" : {
-    "year" : 2019,
-    "month" : "JUNE",
-    "monthValue" : 6,
-    "dayOfMonth" : 10,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : false,
-    "dayOfYear" : 161,
-    "era" : "CE"
-  }
+  "nombre" : "app25t",
+  "descripcion" : "Educación",
+  "espacioKb" : 680.407864402366,
+  "fechaCreacion" : "07/04/2023"
 }, {
   "codigo" : 26,
-  "nombre" : "app26o",
-  "descripcion" : "Conducción",
-  "kb" : 533.28,
-  "fecha" : {
-    "year" : 2021,
-    "month" : "MARCH",
-    "monthValue" : 3,
-    "dayOfMonth" : 25,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : false,
-    "dayOfYear" : 84,
-    "era" : "CE"
-  }
+  "nombre" : "app26s",
+  "descripcion" : "Juegos",
+  "espacioKb" : 762.7849852798147,
+  "fechaCreacion" : "29/06/2023"
 }, {
   "codigo" : 27,
-  "nombre" : "app27c",
-  "descripcion" : "Conducción",
-  "kb" : 402.59,
-  "fecha" : {
-    "year" : 2018,
-    "month" : "AUGUST",
-    "monthValue" : 8,
-    "dayOfMonth" : 12,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : false,
-    "dayOfYear" : 224,
-    "era" : "CE"
-  }
+  "nombre" : "app27t",
+  "descripcion" : "Entretenimiento",
+  "espacioKb" : 538.3029470735812,
+  "fechaCreacion" : "18/11/2022"
 }, {
   "codigo" : 28,
-  "nombre" : "app28g",
-  "descripcion" : "Conducción",
-  "kb" : 536.13,
-  "fecha" : {
-    "year" : 2024,
-    "month" : "AUGUST",
-    "monthValue" : 8,
-    "dayOfMonth" : 17,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "SATURDAY",
-    "leapYear" : true,
-    "dayOfYear" : 230,
-    "era" : "CE"
-  }
+  "nombre" : "app28e",
+  "descripcion" : "Lectura",
+  "espacioKb" : 584.1418167363897,
+  "fechaCreacion" : "04/01/2023"
 }, {
   "codigo" : 29,
-  "nombre" : "app29e",
-  "descripcion" : "Conducción",
-  "kb" : 169.59,
-  "fecha" : {
-    "year" : 2020,
-    "month" : "NOVEMBER",
-    "monthValue" : 11,
-    "dayOfMonth" : 1,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : true,
-    "dayOfYear" : 306,
-    "era" : "CE"
-  }
+  "nombre" : "app29b",
+  "descripcion" : "Juegos",
+  "espacioKb" : 438.8163506819549,
+  "fechaCreacion" : "12/08/2022"
 }, {
   "codigo" : 30,
-  "nombre" : "app30k",
-  "descripcion" : "Finanzas",
-  "kb" : 839.87,
-  "fecha" : {
-    "year" : 2021,
-    "month" : "JUNE",
-    "monthValue" : 6,
-    "dayOfMonth" : 1,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : false,
-    "dayOfYear" : 152,
-    "era" : "CE"
-  }
+  "nombre" : "app30d",
+  "descripcion" : "Deporte",
+  "espacioKb" : 573.1010189857191,
+  "fechaCreacion" : "26/12/2022"
 }, {
   "codigo" : 31,
-  "nombre" : "app31r",
-  "descripcion" : "Entretenimiento",
-  "kb" : 603.47,
-  "fecha" : {
-    "year" : 2023,
-    "month" : "JULY",
-    "monthValue" : 7,
-    "dayOfMonth" : 13,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : false,
-    "dayOfYear" : 194,
-    "era" : "CE"
-  }
+  "nombre" : "app31a",
+  "descripcion" : "Conducción",
+  "espacioKb" : 653.766383510808,
+  "fechaCreacion" : "17/03/2023"
 }, {
   "codigo" : 32,
-  "nombre" : "app32i",
-  "descripcion" : "Entretenimiento",
-  "kb" : 655.8,
-  "fecha" : {
-    "year" : 2016,
-    "month" : "APRIL",
-    "monthValue" : 4,
-    "dayOfMonth" : 5,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : true,
-    "dayOfYear" : 96,
-    "era" : "CE"
-  }
+  "nombre" : "app32u",
+  "descripcion" : "Conocimiento",
+  "espacioKb" : 583.7013672838916,
+  "fechaCreacion" : "07/01/2023"
 }, {
   "codigo" : 33,
-  "nombre" : "app33o",
-  "descripcion" : "Conocimiento",
-  "kb" : 811.0,
-  "fecha" : {
-    "year" : 2025,
-    "month" : "APRIL",
-    "monthValue" : 4,
-    "dayOfMonth" : 22,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : false,
-    "dayOfYear" : 112,
-    "era" : "CE"
-  }
+  "nombre" : "app33e",
+  "descripcion" : "Parejas",
+  "espacioKb" : 991.3513960312604,
+  "fechaCreacion" : "20/02/2024"
 }, {
   "codigo" : 34,
-  "nombre" : "app34y",
+  "nombre" : "app34v",
   "descripcion" : "Parejas",
-  "kb" : 938.18,
-  "fecha" : {
-    "year" : 2020,
-    "month" : "JUNE",
-    "monthValue" : 6,
-    "dayOfMonth" : 9,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : true,
-    "dayOfYear" : 161,
-    "era" : "CE"
-  }
+  "espacioKb" : 716.0160204121446,
+  "fechaCreacion" : "22/05/2023"
 }, {
   "codigo" : 35,
   "nombre" : "app35c",
-  "descripcion" : "Juegos",
-  "kb" : 191.7,
-  "fecha" : {
-    "year" : 2015,
-    "month" : "APRIL",
-    "monthValue" : 4,
-    "dayOfMonth" : 26,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : false,
-    "dayOfYear" : 116,
-    "era" : "CE"
-  }
+  "descripcion" : "Logica",
+  "espacioKb" : 733.6038850082124,
+  "fechaCreacion" : "09/06/2023"
 }, {
   "codigo" : 36,
-  "nombre" : "app36l",
-  "descripcion" : "Conducción",
-  "kb" : 382.94,
-  "fecha" : {
-    "year" : 2017,
-    "month" : "APRIL",
-    "monthValue" : 4,
-    "dayOfMonth" : 24,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : false,
-    "dayOfYear" : 114,
-    "era" : "CE"
-  }
+  "nombre" : "app36h",
+  "descripcion" : "Parejas",
+  "espacioKb" : 698.0592968929839,
+  "fechaCreacion" : "06/05/2023"
 }, {
   "codigo" : 37,
-  "nombre" : "app37y",
-  "descripcion" : "Deporte",
-  "kb" : 679.32,
-  "fecha" : {
-    "year" : 2021,
-    "month" : "JUNE",
-    "monthValue" : 6,
-    "dayOfMonth" : 27,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "SUNDAY",
-    "leapYear" : false,
-    "dayOfYear" : 178,
-    "era" : "CE"
-  }
+  "nombre" : "app37g",
+  "descripcion" : "Educación",
+  "espacioKb" : 751.9129478502854,
+  "fechaCreacion" : "29/06/2023"
 }, {
   "codigo" : 38,
-  "nombre" : "app38d",
-  "descripcion" : "Conocimiento",
-  "kb" : 909.8,
-  "fecha" : {
-    "year" : 2025,
-    "month" : "JUNE",
-    "monthValue" : 6,
-    "dayOfMonth" : 23,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : false,
-    "dayOfYear" : 174,
-    "era" : "CE"
-  }
+  "nombre" : "app38b",
+  "descripcion" : "Logica",
+  "espacioKb" : 502.26284310857267,
+  "fechaCreacion" : "24/10/2022"
 }, {
   "codigo" : 39,
-  "nombre" : "app39m",
-  "descripcion" : "Logica",
-  "kb" : 720.3,
-  "fecha" : {
-    "year" : 2018,
-    "month" : "SEPTEMBER",
-    "monthValue" : 9,
-    "dayOfMonth" : 14,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : false,
-    "dayOfYear" : 257,
-    "era" : "CE"
-  }
+  "nombre" : "app39q",
+  "descripcion" : "Parejas",
+  "espacioKb" : 775.8973104292819,
+  "fechaCreacion" : "25/07/2023"
 }, {
   "codigo" : 40,
-  "nombre" : "app40h",
-  "descripcion" : "Conocimiento",
-  "kb" : 311.77,
-  "fecha" : {
-    "year" : 2021,
-    "month" : "APRIL",
-    "monthValue" : 4,
-    "dayOfMonth" : 17,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "SATURDAY",
-    "leapYear" : false,
-    "dayOfYear" : 107,
-    "era" : "CE"
-  }
+  "nombre" : "app40m",
+  "descripcion" : "Lectura",
+  "espacioKb" : 117.09816113012272,
+  "fechaCreacion" : "06/10/2021"
 }, {
   "codigo" : 41,
-  "nombre" : "app41t",
-  "descripcion" : "Deporte",
-  "kb" : 952.84,
-  "fecha" : {
-    "year" : 2024,
-    "month" : "JUNE",
-    "monthValue" : 6,
-    "dayOfMonth" : 19,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "WEDNESDAY",
-    "leapYear" : true,
-    "dayOfYear" : 171,
-    "era" : "CE"
-  }
+  "nombre" : "app41b",
+  "descripcion" : "Educación",
+  "espacioKb" : 694.7192854522269,
+  "fechaCreacion" : "07/05/2023"
 }, {
   "codigo" : 42,
-  "nombre" : "app42g",
-  "descripcion" : "Parejas",
-  "kb" : 998.76,
-  "fecha" : {
-    "year" : 2016,
-    "month" : "NOVEMBER",
-    "monthValue" : 11,
-    "dayOfMonth" : 25,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : true,
-    "dayOfYear" : 330,
-    "era" : "CE"
-  }
+  "nombre" : "app42p",
+  "descripcion" : "Deporte",
+  "espacioKb" : 416.16848796519906,
+  "fechaCreacion" : "03/08/2022"
 }, {
   "codigo" : 43,
-  "nombre" : "app43t",
-  "descripcion" : "Lectura",
-  "kb" : 647.4,
-  "fecha" : {
-    "year" : 2020,
-    "month" : "FEBRUARY",
-    "monthValue" : 2,
-    "dayOfMonth" : 27,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : true,
-    "dayOfYear" : 58,
-    "era" : "CE"
-  }
+  "nombre" : "app43a",
+  "descripcion" : "Conducción",
+  "espacioKb" : 672.6144865970151,
+  "fechaCreacion" : "17/04/2023"
 }, {
   "codigo" : 44,
-  "nombre" : "app44w",
-  "descripcion" : "Lectura",
-  "kb" : 289.99,
-  "fecha" : {
-    "year" : 2023,
-    "month" : "FEBRUARY",
-    "monthValue" : 2,
-    "dayOfMonth" : 9,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : false,
-    "dayOfYear" : 40,
-    "era" : "CE"
-  }
+  "nombre" : "app44e",
+  "descripcion" : "Conducción",
+  "espacioKb" : 953.7142126456462,
+  "fechaCreacion" : "24/01/2024"
 }, {
   "codigo" : 45,
-  "nombre" : "app45h",
+  "nombre" : "app45e",
   "descripcion" : "Deporte",
-  "kb" : 627.65,
-  "fecha" : {
-    "year" : 2023,
-    "month" : "DECEMBER",
-    "monthValue" : 12,
-    "dayOfMonth" : 28,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "THURSDAY",
-    "leapYear" : false,
-    "dayOfYear" : 362,
-    "era" : "CE"
-  }
+  "espacioKb" : 657.9695526962375,
+  "fechaCreacion" : "04/04/2023"
 }, {
   "codigo" : 46,
-  "nombre" : "app46g",
+  "nombre" : "app46d",
   "descripcion" : "Conducción",
-  "kb" : 183.13,
-  "fecha" : {
-    "year" : 2023,
-    "month" : "JULY",
-    "monthValue" : 7,
-    "dayOfMonth" : 19,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "WEDNESDAY",
-    "leapYear" : false,
-    "dayOfYear" : 200,
-    "era" : "CE"
-  }
+  "espacioKb" : 138.97241064956597,
+  "fechaCreacion" : "02/11/2021"
 }, {
   "codigo" : 47,
-  "nombre" : "app47d",
-  "descripcion" : "Juegos",
-  "kb" : 748.1,
-  "fecha" : {
-    "year" : 2015,
-    "month" : "FEBRUARY",
-    "monthValue" : 2,
-    "dayOfMonth" : 20,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : false,
-    "dayOfYear" : 51,
-    "era" : "CE"
-  }
+  "nombre" : "app47l",
+  "descripcion" : "Lectura",
+  "espacioKb" : 609.7149597855998,
+  "fechaCreacion" : "17/02/2023"
 }, {
   "codigo" : 48,
-  "nombre" : "app48l",
-  "descripcion" : "Conocimiento",
-  "kb" : 214.22,
-  "fecha" : {
-    "year" : 2025,
-    "month" : "MAY",
-    "monthValue" : 5,
-    "dayOfMonth" : 19,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "MONDAY",
-    "leapYear" : false,
-    "dayOfYear" : 139,
-    "era" : "CE"
-  }
+  "nombre" : "app48g",
+  "descripcion" : "Lectura",
+  "espacioKb" : 882.2016890006789,
+  "fechaCreacion" : "18/11/2023"
 }, {
   "codigo" : 49,
-  "nombre" : "app49r",
-  "descripcion" : "Deporte",
-  "kb" : 723.81,
-  "fecha" : {
-    "year" : 2018,
-    "month" : "JUNE",
-    "monthValue" : 6,
-    "dayOfMonth" : 12,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : false,
-    "dayOfYear" : 163,
-    "era" : "CE"
-  }
+  "nombre" : "app49k",
+  "descripcion" : "Logica",
+  "espacioKb" : 304.1075492433196,
+  "fechaCreacion" : "20/04/2022"
 }, {
   "codigo" : 50,
-  "nombre" : "app50l",
-  "descripcion" : "Educación",
-  "kb" : 364.6,
-  "fecha" : {
-    "year" : 2025,
-    "month" : "JANUARY",
-    "monthValue" : 1,
-    "dayOfMonth" : 10,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "FRIDAY",
-    "leapYear" : false,
-    "dayOfYear" : 10,
-    "era" : "CE"
-  }
+  "nombre" : "app50x",
+  "descripcion" : "Conocimiento",
+  "espacioKb" : 298.4296367353714,
+  "fechaCreacion" : "15/04/2022"
 } ]

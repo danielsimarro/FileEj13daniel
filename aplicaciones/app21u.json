@@ -2,19 +2,6 @@
   "codigo" : 21,
   "nombre" : "app21u",
   "descripcion" : "Conocimiento",
-  "kb" : 370.7,
-  "fecha" : {
-    "year" : 2020,
-    "month" : "OCTOBER",
-    "monthValue" : 10,
-    "dayOfMonth" : 20,
-    "chronology" : {
-      "id" : "ISO",
-      "calendarType" : "iso8601"
-    },
-    "dayOfWeek" : "TUESDAY",
-    "leapYear" : true,
-    "dayOfYear" : 294,
-    "era" : "CE"
-  }
+  "espacioKb" : 756.1238002176349,
+  "fechaCreacion" : "18/06/2023"
 }

@@ -1,3 +1,9 @@
-Fiile/LocalDateAdapter.class
-Fiile/Pruebalectura.class
-Fiile/LecturaXml.class
+files\App.class
+files\ServicioFicheroXML.class
+files\Programa.class
+files\LocalDateAdapter.class
+files\ServicioFicheroJSON.class
+files\ServicioFicheroTSV.class
+files\PruebaEj12.class
+files\CatalogoAplicaciones.class
+files\PruebaEj13.class
