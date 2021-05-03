@@ -26,10 +26,13 @@ public class PruebaEj13 {
 
     //Atributo que gestiona el contenido que hay en la carpeta aplicaciones con un ArrayLis
     private static ArrayList<String> nombresAplicacion;
+    //Metodo scanner para guardar los datos que introduzca el usuario
     private static final Scanner teclado = new Scanner(System.in);
 
     public static void main(String[] args) {
 
+        //Con el metodo contenidoAplicaciones guardamos los nombres de todas las aplicaciones que hay dentro
+        //de la carpeta aplicaciones
         nombresAplicacion = new ArrayList<>(contenidoAplicaciones());
 
         //Mostramos el listado de los ficheros que hay en aplicaciones
@@ -62,21 +65,27 @@ public class PruebaEj13 {
             Logger.getLogger(PruebaEj13.class.getName()).log(Level.SEVERE, null, ex);
         }
 
+        System.out.println("--------------------------------------");
+        System.out.println("Mostando datos de la app seleccionada: ");
         System.out.println(aplicacion.toString());
 
-        borrarFichero(appLeer);
-
+        borrarFichero( appLeer);
+        
+        System.out.println("--------------------------------------");
+        System.out.println("Mostrando la lista con la app seleccionada eliminada de esta:");
         nombresAplicacion.forEach(System.out::println);
 
         Map<String, LocalDate> mapFiltrado = generarMap(leerJson);
 
+        System.out.println("--------------------------------------");
+        System.out.println("Mostrando el nombre y la fecha de creación de los \narchivos, cuyo tamaño es entre 200kb y 500Kb:");
         for (Map.Entry<String, LocalDate> map : mapFiltrado.entrySet()) {
             System.out.println(map.getKey() + "\t" + map.getValue());
         }
 
     }
 
-    //Metodo que devuelve una lista con todos los nombres de los archivos que contiene aplicaciones
+    //Metodo que devuelve una lista con todos los nombres de los archivos que contiene la carpeta aplicaciones
     public static ArrayList<String> contenidoAplicaciones() {
 
         ArrayList<String> nombresAplicacion = new ArrayList<>();
@@ -98,7 +107,7 @@ public class PruebaEj13 {
     //Metodo que borra el fichero que se le pasa la ruta por parametro
     public static void borrarFichero(String ruta) {
 
-        Path element = Paths.get(ruta);
+        Path element = Paths.get("./aplicaciones/" + ruta);
         try {
             Files.delete(element);
         } catch (IOException e) {

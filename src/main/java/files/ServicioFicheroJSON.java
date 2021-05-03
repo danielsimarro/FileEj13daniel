@@ -21,18 +21,19 @@ import java.util.logging.Logger;
 public class ServicioFicheroJSON {
 
     //Metodo que genera un archivo JSON pasandole un ArrayList de app y la ruta del fichero a crear, con su nombre
-    public void generaJson(ArrayList<App> listaApp, String nombre) throws IOException {
+    public void generaJson(ArrayList<App> listaApp, String nombreFichero) throws IOException {
 
         ObjectMapper mapeador = new ObjectMapper();
 
         mapeador.configure(SerializationFeature.INDENT_OUTPUT, true);
 
         // Escribe en un fichero JSON la lista que le pasamos
-        mapeador.writeValue(new File(nombre), listaApp);
+        mapeador.writeValue(new File(nombreFichero), listaApp);
 
     }
 
-    //Metodo que crea un archivo por cada objeto de la lista app que se le pase, donde el nombre del archivo sera el nombre del objeto
+    //Metodo que crea un archivo por cada objeto de la app que se le pase, donde el nombre del archivo sera el nombre del objeto
+    //que se le pasa tambien por parametros
     public void generaJson(App aplicacion, String nombreFichero) throws IOException {
 
         ObjectMapper mapeador = new ObjectMapper();

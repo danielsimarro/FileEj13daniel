@@ -145,7 +145,7 @@ public class App {
         App.contador = contador;
     }
 
-    //HashCode
+    //HashCode y equals
     @Override
     public int hashCode() {
         int hash = 7;
@@ -157,7 +157,6 @@ public class App {
         return hash;
     }
 
-    //equals
     @Override
     public boolean equals(Object obj) {
         if (this == obj) {
@@ -188,7 +187,7 @@ public class App {
         return true;
     }
 
-    //Metodo to String para imprimir los atributos del objeto
+    //Metodo to String para imprimir los atributos del objeto, separado par tabulaciones
     @Override
     public String toString() {
         return codigo + "\t" + nombre + "\t" + descripcion + "\t" + espacioKb + "\t" + fechaCreacion;
